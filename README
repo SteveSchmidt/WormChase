@@ -1,0 +1,12 @@
+Worm Chase
+By Steve Schmidt
+
+Files:
+BaseGame.java
+BaseShape.java
+Block.java
+Food.java
+Worm.java
+
+This is a simple java applet game.  The user guided the worm with the arrow keys
+to the food blocks allowing the worm to grow while avoiding barrier blocks.
